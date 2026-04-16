@@ -17,6 +17,9 @@ st.set_page_config(
 # Enhanced modern CSS
 st.markdown("""
     <style>
+    ._profilePreview_gzau3_63{
+    display: none !important;
+    }
     .stApp {
         background: linear-gradient(135deg, #e3f2fd 0%, #f7f9fa 100%);
     }
